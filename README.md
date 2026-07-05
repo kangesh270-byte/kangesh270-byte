@@ -89,7 +89,6 @@ I'm Kangeshwaran S, a passionate Computer Science student with a deep interest i
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googlebard&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
 </div>
