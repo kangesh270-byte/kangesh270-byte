@@ -1,0 +1,41 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="85%">
+      <stop offset="0%" stop-color="#B24BF3"/>
+      <stop offset="45%" stop-color="#7C1FA0"/>
+      <stop offset="100%" stop-color="#120018"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0c3fc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="380" fill="#0d0014"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <!-- diagonal accent lines left -->
+  <g stroke="#ffffff" stroke-opacity="0.35" stroke-width="4">
+    <line x1="60" y1="330" x2="100" y2="260"/>
+    <line x1="90" y1="330" x2="130" y2="260"/>
+    <line x1="120" y1="330" x2="160" y2="260"/>
+  </g>
+  <!-- diagonal accent lines right -->
+  <g stroke="#ffffff" stroke-opacity="0.35" stroke-width="4">
+    <line x1="1080" y1="330" x2="1040" y2="260"/>
+    <line x1="1050" y1="330" x2="1010" y2="260"/>
+    <line x1="1020" y1="330" x2="980" y2="260"/>
+  </g>
+
+  <!-- avatar circle -->
+  <circle cx="600" cy="95" r="55" fill="#0d0014" stroke="url(#ring)" stroke-width="4"/>
+  <!-- simple face glyph -->
+  <circle cx="580" cy="90" r="7" fill="#ffffff"/>
+  <circle cx="620" cy="90" r="7" fill="#ffffff"/>
+  <path d="M 570 115 Q 600 130 630 115" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 555 70 Q 600 45 645 70" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round"/>
+
+  <!-- title text -->
+  <text x="600" y="220" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="4">HELLO WORLD</text>
+  <text x="600" y="255" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="16" font-weight="400" fill="#e6d6f5" letter-spacing="6">WELCOME TO MY PROFILE</text>
+</svg>
