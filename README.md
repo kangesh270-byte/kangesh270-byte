@@ -71,7 +71,7 @@ I'm Kangeshwaran S, a passionate Computer Science student with a deep interest i
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+<img src="https://skillicons.dev/icons?i=c,java,python"/>
 
 **Frontend**
 <br/>
