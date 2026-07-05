@@ -137,23 +137,6 @@ Full digital library management system handling book catalogs, member records, a
 </tr>
 </table>
 
-<br/>
-
-## 🏆 Achievements
-
-<p align="left">
-<img src="https://img.shields.io/badge/🥇%20First%20Prize-30--Hour%20Hackathon-00F5FF?style=for-the-badge&labelColor=0F0C29"/>
-<br/>
-<img src="https://img.shields.io/badge/🥇%20First%20Prize-AI%20Web%20Development%20Event-8A2BE2?style=for-the-badge&labelColor=0F0C29"/>
-<br/>
-<img src="https://img.shields.io/badge/🥈%20Second%20Prize-Project%20Expo-00F5FF?style=for-the-badge&labelColor=0F0C29"/>
-<br/>
-<img src="https://img.shields.io/badge/🏅%20NPTEL-Elite%20%2B%20Silver%20Certification-8A2BE2?style=for-the-badge&labelColor=0F0C29"/>
-<br/>
-<img src="https://img.shields.io/badge/🚀%20Active-Hackathon%20Participant-00F5FF?style=for-the-badge&labelColor=0F0C29"/>
-</p>
-
-<br/>
 
 ## 📊 GitHub Analytics
 
