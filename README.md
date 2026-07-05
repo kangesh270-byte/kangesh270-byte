@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=ᴋᴀɴɢᴇsʜᴡᴀʀᴀɴ S&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Full-Stack%20Web%20Developer%20%7C%20CSE%20Student&descSize=18&descAlignY=55&descColor=B084F9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=Kangeshwaran S&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Full-Stack%20Web%20Developer%20%7C%20CSE%20Student&descSize=18&descAlignY=55&descColor=B084F9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Full-Stack+Web+Developer+%F0%9F%92%BB;CSE+Student+%7C+Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+Data+into+Decisions%2C+Ideas+into+Apps" alt="Typing SVG"/>
