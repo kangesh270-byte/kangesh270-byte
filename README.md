@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=Kangeshwaran S&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Full-Stack%20Web%20Developer%20%7C%20CSE%20Student&descSize=18&descAlignY=55&descColor=B084F9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=Kangeshwaran S%20S&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Full-Stack%20Web%20Developer%20%7C%20CSE%20Student&descSize=18&descAlignY=55&descColor=B084F9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Full-Stack+Web+Developer+%F0%9F%92%BB;CSE+Student+%7C+Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+Data+into+Decisions%2C+Ideas+into+Apps" alt="Typing SVG"/>
@@ -11,6 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=kangesh270-byte&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-Opportunities-00F5FF?style=for-the-badge&labelColor=0F0C29"/>
 <img src="https://img.shields.io/github/followers/kangesh270-byte?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/📍%20Tamil%20Nadu-India-8A2BE2?style=for-the-badge&labelColor=0F0C29"/>
 
 </div>
 
@@ -21,14 +22,14 @@
 > *"Every dataset tells a story, and every line of code creates a solution."*
 
 ```yaml
-name: Kangeshwaran
+name: Kangeshwaran S
 location: Tamil Nadu, India 🇮🇳
 education: B.E. Computer Science and Engineering
 roles: ["Aspiring Data Analyst", "Full-Stack Web Developer", "CSE Student"]
 passion: [Data Analytics, Business Intelligence, AI, Full-Stack Development]
 ```
 
-I'm a passionate Computer Science student with a deep interest in **Data Analytics, Business Intelligence, Artificial Intelligence, and Full-Stack Web Development**. I love turning raw data into meaningful insights and turning ideas into fully working applications.
+I'm Kangeshwaran S, a passionate Computer Science student with a deep interest in **Data Analytics, Business Intelligence, Artificial Intelligence, and Full-Stack Web Development**. I love turning raw data into meaningful insights and turning ideas into fully working applications.
 
 - 🔍 Building real-world applications that solve practical business problems
 - 🏆 Participating in hackathons and tech events
@@ -165,12 +166,6 @@ Full digital library management system handling book catalogs, member records, a
 
 </div>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kangesh270-byte&theme=algolia&no-bg=true&no-frame=true&row=2&column=6&margin-w=15&margin-h=15"/>
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -181,14 +176,6 @@ Full digital library management system handling book catalogs, member records, a
 <div align="center">
 <img src="https://raw.githubusercontent.com/kangesh270-byte/kangesh270-byte/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
-
-## 💬 Coding Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
-<br/>
 
 ## 📫 Let's Connect
 
