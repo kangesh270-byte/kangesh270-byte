@@ -23,7 +23,7 @@
 
 ```yaml
 name: Kangeshwaran S
-location: Tamil Nadu, India 🇮🇳
+location: Tamil Nadu, India 
 education: B.E. Computer Science and Engineering
 roles: ["Aspiring Data Analyst", "Full-Stack Web Developer", "CSE Student"]
 passion: [Data Analytics, Business Intelligence, AI, Full-Stack Development]
