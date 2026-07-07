@@ -141,12 +141,7 @@ Full digital library management system handling book catalogs, member records, a
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kangesh270-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5FF&icon_color=8A2BE2&text_color=ffffff&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangesh270-byte&theme=tokyonight&hide_border=true&background=0F0C29&stroke=8A2BE2&ring=00F5FF&fire=8A2BE2&currStreakLabel=00F5FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangesh270-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5FF&text_color=ffffff"/>
-
 </div>
 
 ## 📈 Contribution Activity
@@ -157,7 +152,6 @@ Full digital library management system handling book catalogs, member records, a
 
 <!-- 🐍 Contribution Snake (needs one-time GitHub Actions setup — see note below) -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/kangesh270-byte/kangesh270-byte/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 ## 📫 Let's Connect
